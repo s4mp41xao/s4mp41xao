@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samuel Paixão</h1>
 <h3 align="center">A passionate frontend developer and web3 enthusiast from Brazil.</h3>
 
-- 🌱 I’m currently learning **Node, React, Tailwind, Solidity.**
+- 🚀 I am currently developing projects with the following technologies: **HTML, CSS, JavaScript, Bootstrap, jQuery.**
+
+- 🌱 I’m also learning **Node, React, Tailwind, Solidity.**
 
 - 📫 How to reach me **samribe@outlook.com**
 
