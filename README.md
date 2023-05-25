@@ -3,9 +3,9 @@
 
 - 🚀 I am currently developing projects with the following technologies: **HTML, CSS, JavaScript, Bootstrap, jQuery.**
 
-- 🌱 I’m also learning **Node, React, Tailwind, Solidity.**
+- 🌱 I’m also learning **Node, React, Tailwind, Solidity, Rust.**
 
-- 📫 How to reach me **samribe@outlook.com**
+- 📫 How to reach me **samuelpaixao@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
