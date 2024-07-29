@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Seja bem-vindo👋</h1>
-<h3 align="center">Sou um Desenvolvedor e Copywriter. É um prazer ter você aqui!</h3>
+<h3 align="center">Sou Desenvolvedor e Copywriter. É um prazer ter você aqui!</h3>
 
 - 🚀 Atualmente estou desenvolvendo projetos com as seguintes tecnologias: **HTML, CSS, JavaScript, NodeJS, Bootstrap, jQuery.**
 
