@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Samuel Paixão</h1>
-<h3 align="center">A passionate frontend developer and web3 enthusiast from Brazil.</h3>
+<h1 align="center">Olá! Seja bem-vindo👋</h1>
+<h3 align="center">Sou um Desenvolvedor e Copywriter. É um prazer ter você aqui!</h3>
 
-- 🚀 I am currently developing projects with the following technologies: **HTML, CSS, JavaScript, Bootstrap, jQuery.**
+- 🚀 Atualmente estou desenvolvendo projetos com as seguintes tecnologias: **HTML, CSS, JavaScript, NodeJS, Bootstrap, jQuery.**
 
-- 🌱 I’m also learning **Node, React, Tailwind, Solidity, Rust.**
+- 🌱 Também estou aprendendo **React, Tailwind, Solidity, Rust.**
 
-- 📫 How to reach me **samuelpaixao@proton.me**
+- 📫 Como entrar em contato comigo **samuelpaixao@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
