@@ -7,17 +7,27 @@
 
 - 📫 Como entrar em contato comigo **samuelpaixao@proton.me**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/samuelpaixao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuelpaixao" height="30" width="40" /></a>
-<a href="https://instagram.com/web3withsam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samweb_dev" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<h3>Conheça meus principais projetos</h3>
+
+<ul>
+    <li><a href="https://todo-list-one-blush.vercel.app/" target="_blank">Todo List [JavaScript]</a></li>
+    <li><a href="https://wefood.vercel.app/" target="_blank">WeFood (Hamburgueria) [React]</a></li>
+    <li><a href="https://restaurant-landing-page-mocha.vercel.app/" target="_blank">Foodie (Restaurante) [React]</a></li>
+    <li><a href="https://relogio-digital-psi-rust.vercel.app/" target="_blank">Relógio Digital [JavaScript]</a></li>
+    <li><a href="https://experience-react-tailwind.vercel.app/" target="_blank">Reservas de Hoteis [React]</a></li>
+    <li><a href="https://calculator-project-three-theta.vercel.app/" target="_blank">Calculadora [JavaScript]</a></li>
+    <li><a href="https://e-commerce-j-query-bootstrap.vercel.app/" target="_blank">E-commerce de Roupas [JavaScript/jQuery]</a></li>
+</ul>
+
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s4mp41xao&show_icons=true&locale=en&layout=compact" alt="s4mp41xao" /></p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s4mp41xao&show_icons=true&locale=en" alt="s4mp41xao" /></p>
+
+<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s4mp41xao&" alt="s4mp41xao" /></p>
