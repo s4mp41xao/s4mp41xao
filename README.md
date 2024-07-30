@@ -5,8 +5,6 @@
 
 - 🌱 Também estou aprendendo **React, Tailwind, Solidity, Rust.**
 
-- 📫 Como entrar em contato comigo **samuelpaixao@proton.me**
-
 
 <h3>Conheça meus principais projetos</h3>
 
