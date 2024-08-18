@@ -1,12 +1,20 @@
 <h1 align="center">Olá! Seja bem-vindo👋</h1>
 <h3 align="center">Sou Desenvolvedor e Copywriter. É um prazer ter você aqui!</h3>
 
-- 🚀 Atualmente estou desenvolvendo projetos com as seguintes tecnologias: **HTML, CSS, JavaScript, NodeJS, Bootstrap, jQuery.**
+Como desenvolvedor foco em criar soluções eficientes e escaláveis, procuro aplicar metodologias ágeis escrever códigos limpos e organizados, garantindo que cada projeto seja robusto e de fácil manutenção.
 
-- 🌱 Também estou aprendendo **React, Tailwind, Solidity, Rust.**
+<strong>Linguagens:</strong> HTML, CSS, JavaScript
+<br>
+<strong>Frameworks e Bibliotecas:</strong> Bootstrap, Tailwind
+<br>
+<strong>Desenvolvimento Back-End:</strong> NodeJS, Express
+<br>
+<strong>Ferramentas e Plataformas:</strong> Vercel
+<br>
+<strong>Controle de Versão:</strong> Git, GitHub
 
 
-<h3>Conheça meus principais projetos</h3>
+<h3>Conheça meus principais projetos:</h3>
 
 <ul>
     <li><a href="https://todo-list-one-blush.vercel.app/" target="_blank">Todo List [JavaScript]</a></li>
