@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Seja bem-vindo👋</h1>
-<h3 align="center">Sou Desenvolvedor e Copywriter. É um prazer ter você aqui!</h3>
+<h3 align="center">Meu nome é Samuel, Sou Desenvolvedor e Copywriter. É um prazer ter você aqui!</h3>
 
 Como desenvolvedor foco em criar soluções eficientes e escaláveis, procuro aplicar metodologias ágeis escrever códigos limpos e organizados, garantindo que cada projeto seja robusto e de fácil manutenção.
 
