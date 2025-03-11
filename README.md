@@ -9,6 +9,8 @@ Como desenvolvedor foco em criar soluções eficientes e escaláveis, procuro ap
 <br>
 <strong>Desenvolvimento Back-End:</strong> NodeJS, Express
 <br>
+<strong>Banco de Dados:</strong> Firebase
+<br>
 <strong>Ferramentas e Plataformas:</strong> Vercel
 <br>
 <strong>Controle de Versão:</strong> Git, GitHub
