@@ -3,7 +3,7 @@
 
 Como desenvolvedor foco em criar soluções eficientes e escaláveis, procuro aplicar metodologias ágeis escrever códigos limpos e organizados, garantindo que cada projeto seja robusto e de fácil manutenção.
 
-<strong>Linguagens:</strong> HTML, CSS, JavaScript
+<strong>Linguagens:</strong> Java, JavaScript e Python
 <br>
 <strong>Frameworks e Bibliotecas:</strong> Bootstrap, Tailwind
 <br>
