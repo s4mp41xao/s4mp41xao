@@ -5,11 +5,11 @@ Como desenvolvedor foco em criar soluções eficientes e escaláveis, procuro ap
 
 <strong>Linguagens:</strong> Java, JavaScript e Python
 <br>
-<strong>Frameworks e Bibliotecas:</strong> React, Tailwind e Bootstrap.
+<strong>Frameworks e Bibliotecas:</strong>SpringBoot, React, Tailwind e Bootstrap.
 <br>
 <strong>Desenvolvimento Back-End:</strong> NodeJS, Express
 <br>
-<strong>Banco de Dados:</strong> Firebase
+<strong>Banco de Dados:</strong> Firebase, MySQL, MongoDB
 <br>
 <strong>Ferramentas e Plataformas:</strong> Vercel
 <br>
