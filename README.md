@@ -7,9 +7,9 @@ Como desenvolvedor foco em criar soluções eficientes e escaláveis, procuro ap
 <br>
 <strong>Frameworks e Bibliotecas:</strong> SpringBoot, React, Tailwind e Bootstrap.
 <br>
-<strong>Desenvolvimento Back-End:</strong> NodeJS, Express
+<strong>Desenvolvimento Back-End:</strong> Java, NodeJS, Express
 <br>
-<strong>Banco de Dados:</strong> Firebase, MySQL, MongoDB
+<strong>Banco de Dados:</strong> MySQL, Firebase
 <br>
 <strong>Ferramentas e Plataformas:</strong> Vercel
 <br>
