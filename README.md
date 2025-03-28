@@ -9,7 +9,7 @@ Como desenvolvedor foco em criar soluções eficientes e escaláveis, procuro ap
 <br>
 <strong>Desenvolvimento Back-End:</strong> Java, NodeJS, Express
 <br>
-<strong>Banco de Dados:</strong> MySQL, Firebase
+<strong>Banco de Dados:</strong> MySQL, Firebase.
 <br>
 <strong>Ferramentas e Plataformas:</strong> Vercel
 <br>
