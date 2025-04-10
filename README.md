@@ -1,7 +1,10 @@
-# 🌎 Hello World! Welcome!👋
- As a developer focused on creating efficient and scalable solutions, I try to apply agile methodologies to write clean and organized code, ensuring that each project is robust and easy to maintain.
+# 👨‍💻 About Me
+As a passionate Full-Stack Developer, I focus on crafting efficient, scalable, and user-centered solutions. I embrace agile methodologies to deliver clean, maintainable, and well-structured code—ensuring that each project is robust, high-performing, and ready for long-term growth.
 
-## 💻 Tech Stack
+Always eager to learn and contribute, I enjoy collaborating on innovative projects that make a meaningful impact.
+ As a Full-Stack developer focused on creating efficient and scalable solutions, I try to apply agile methodologies to write clean and organized code, ensuring that each project is robust and easy to maintain.
+
+## 💻 My Tech Stack
 
 ### 🧠 Languages
 - Java
