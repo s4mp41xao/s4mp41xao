@@ -4,9 +4,6 @@ As a passionate Full-Stack Developer, I focus on crafting efficient, scalable, a
 Always eager to learn and contribute, I enjoy collaborating on innovative projects that make a meaningful impact.
  As a Full-Stack developer focused on creating efficient and scalable solutions, I try to apply agile methodologies to write clean and organized code, ensuring that each project is robust and easy to maintain.
 
-## 📚 Education:
-- Graduation’s Degree in Systems Analysis and Development – Anhembi Morumbi University
-
 ## 💻 My Tech Stack
 
 ### 🧠 Languages
@@ -34,6 +31,8 @@ Always eager to learn and contribute, I enjoy collaborating on innovative projec
 
 ---
 
+## 📚 Education:
+- Graduation’s Degree in Systems Analysis and Development – Anhembi Morumbi University
 
 ## 📈 Goals
 - Deepen knowledge in full-stack development
