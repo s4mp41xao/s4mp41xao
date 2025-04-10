@@ -5,27 +5,24 @@
 
 ### 🧠 Languages
 - Java
-- JavaScript (ES6+)
+- JavaScript
 - Python
 
-### 🚀 Frameworks & Libraries
+### 🚀 Frameworks, Libraries and Runtime environment
 - Spring Boot
-- React.js
-- Tailwind CSS
-- Bootstrap
+- React
+- Node
+- Express
 - JQuery
-
-### 🛠️ Back-End Development
-- Java (Spring Boot)
-- Node.js
-- Express.js
+- Tailwind
+- Bootstrap
 
 ### 🗃️ Databases
 - MySQL
 - Firebase
 - H2 Database
 
-### 🧩 Tools & Platforms
+### 🛠️ Tools & Platforms
 - Vercel
 - Git & GitHub
 
@@ -38,15 +35,10 @@
 
 Feel free to explore my repositories and connect with me!
 
-
-
 ## 🚀 Featured Projects
 
 - 🤖 [AI News Portal (React, Tailwind and Firebase)](https://github.com/s4mp41xao/ai-news-portal)  
   Modern and responsive news platform that uses artificial intelligence to curate and display the latest news from various categories.
-
-- ✅ [Todo List (JavaScript)](https://todo-list-one-blush.vercel.app/)  
-  A simple and functional app to manage daily tasks.
 
 - 🍔 [WeFood - Burger Restaurant (React)](https://wefood.vercel.app/)  
   A modern landing page for a fictional burger place, focused on UI and user experience.
@@ -54,17 +46,20 @@ Feel free to explore my repositories and connect with me!
 - 🍽️ [Foodie - Restaurant Landing Page (React)](https://restaurant-landing-page-mocha.vercel.app/)  
   A stylish, responsive landing page for restaurants.
 
-- ⏰ [Digital Clock (JavaScript)](https://relogio-digital-psi-rust.vercel.app/)  
-  Real-time digital clock with a clean, minimal design. Great for DOM manipulation practice.
-
 - 🏨 [Hotel Booking UI (React + Tailwind)](https://experience-react-tailwind.vercel.app/)  
   Interface for a hotel reservation system with a modern layout built using Tailwind CSS.
 
-- 🧮 [Calculator (JavaScript)](https://calculator-project-three-theta.vercel.app/)  
-  A classic calculator app with basic operations, ideal for practicing logic and interactivity.
-
 - 🛍️ [Clothing E-commerce (JavaScript/jQuery)](https://e-commerce-j-query-bootstrap.vercel.app/)  
   Online clothing store with product catalog and shopping cart using jQuery and Bootstrap.
+
+- ✅ [Todo List (JavaScript)](https://todo-list-one-blush.vercel.app/)  
+  A simple and functional app to manage daily tasks.
+
+- ⏰ [Digital Clock (JavaScript)](https://relogio-digital-psi-rust.vercel.app/)  
+  Real-time digital clock with a clean, minimal design. Great for DOM manipulation practice.
+
+- 🧮 [Calculator (JavaScript)](https://calculator-project-three-theta.vercel.app/)  
+  A classic calculator app with basic operations, ideal for practicing logic and interactivity.
 
 ---
 
