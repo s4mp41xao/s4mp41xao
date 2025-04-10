@@ -41,6 +41,8 @@ Always eager to learn and contribute, I enjoy collaborating on innovative projec
 
 Feel free to explore my repositories and connect with me!
 
+---
+
 ## 🚀 Featured Projects
 
 - 🤖 [AI News Portal (React, Tailwind and Firebase)](https://github.com/s4mp41xao/ai-news-portal)  
@@ -66,8 +68,6 @@ Feel free to explore my repositories and connect with me!
 
 - 🧮 [Calculator (JavaScript)](https://calculator-project-three-theta.vercel.app/)  
   A classic calculator app with basic operations, ideal for practicing logic and interactivity.
-
----
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s4mp41xao&show_icons=true&locale=en&layout=compact" alt="s4mp41xao" /></p>
 
