@@ -6,7 +6,7 @@ Always eager to learn and contribute, I enjoy collaborating on innovative projec
 
 ## 💻 My Tech Stack
 
-### 🧠 Languages
+### 🧠 Languages:
 - Java
 - JavaScript
 - Python
