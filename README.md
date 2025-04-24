@@ -9,10 +9,12 @@ Always eager to learn and contribute, I enjoy collaborating on innovative projec
 ### 🧠 Languages:
 - Java
 - JavaScript
+- TypeScript
 - Python
 
 ### 🚀 Frameworks, Libraries and Runtime environment
 - Spring Boot
+- Angular
 - React
 - Node
 - Express
