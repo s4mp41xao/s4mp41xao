@@ -33,7 +33,7 @@ Always eager to learn and contribute, I enjoy collaborating on innovative projec
 ---
 
 ## 📚 Education:
-- Graduation’s Degree in Systems Analysis and Development – Anhembi Morumbi University
+- Graduation’s Degree in Systems Analysis and Development – Anhembi Morumbi University.
 
 ## 📈 Goals
 - Deepen knowledge in full-stack development
