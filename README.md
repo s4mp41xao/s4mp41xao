@@ -46,6 +46,12 @@ Feel free to explore my repositories and connect with me!
 
 ## 🚀 Featured Projects
 
+  - 🏦 [Front-end for Transactions Management API (Angular 19)](https://github.com/s4mp41xao/angular-login-and-register)
+
+    - 🏦 [Back-end Transactions Management API (Java 21, MySQL)](https://github.com/s4mp41xao/jwt-login-and-register)  
+      A Spring Boot REST API for managing transactions associated with bank accounts, companies and users.
+
+
 - 🤖 [AI News Portal (React, Tailwind and Firebase)](https://github.com/s4mp41xao/ai-news-portal)  
   Modern and responsive news platform that uses artificial intelligence to curate and display the latest news from various categories.
 
