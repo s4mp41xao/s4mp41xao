@@ -1,87 +1,46 @@
-# 👨‍💻 About Me
-As a passionate Full-Stack Developer, I focus on crafting efficient, scalable, and user-centered solutions. I embrace agile methodologies to deliver clean, maintainable, and well-structured code ensuring that each project is robust, high-performing, and ready for long-term growth.
+## 👨‍💻 About Me
+I am a Full-Stack Develo per specializing in building robust and scalable applications with Java/Spring Boot on the backend and modern, reactive interfaces with Angular on the frontend. My focus is on writing clean, maintainable code and leveraging tools like Docker and Azure to ensure efficient and reliable deployments.
 
-Always eager to learn and contribute, I enjoy collaborating on innovative projects that make a meaningful impact. As a Full-Stack developer focused on creating efficient and scalable solutions, I try to apply agile methodologies to write clean and organized code, ensuring that each project is robust and easy to maintain.
+I am passionate about solving complex challenges and am currently focused on deepening my knowledge of enterprise-level solutions and cloud-native architectures.
 
-## 💻 My Tech Stack
+### 💻 My Core Tech Stack
 
-### 🧠 Languages:
-- Java
-- JavaScript
-- TypeScript
-- Python
-
-### 🚀 Frameworks, Libraries and Runtime environment
-- Spring Boot
-- Angular
-- React
-- Node
-- Express
-- JQuery
-- Tailwind
-- Bootstrap
-
-### 🗃️ Databases
-- MySQL
-- Firebase
-- H2 Database
-
-### 🛠️ Tools & Platforms
-- Vercel
-- Git & GitHub
+| Backend | Frontend | Databases | DevOps & Cloud |
+| :--- | :--- | :--- | :--- |
+| Java | TypeScript | MySQL | Docker |
+| Spring Boot | Angular | H2 Database | Azure |
+| Spring Security | RxJS | | Git & GitHub |
+| JPA / Hibernate | | | |
 
 ---
 
-## 📚 Education:
-- Graduation’s Degree in Systems Analysis and Development – Anhembi Morumbi University.
+### 🚀 Featured Project's
 
-## 📈 Goals
-- Deepen knowledge in full-stack development
-- Contribute to open-source projects
-- Build solutions that have real-world impact
-
-Feel free to explore my repositories and connect with me!
-
----
-
-## 🚀 Featured Projects
-
-  - 🏦 [Front-end for Transactions Management API (Angular 19)](https://github.com/s4mp41xao/angular-login-and-register)
-
-    - 🏦 [Back-end Transactions Management API (Java 21, MySQL)](https://github.com/s4mp41xao/jwt-login-and-register)  
-      A Spring Boot REST API for managing transactions associated with bank accounts, companies and users.
-
+- 🏦 [Finance Management System (SaaS) | Full-Stack Monorepo](https://github.com/s4mp41xao/finance-system-monorepo)  
+  A complete, enterprise-ready financial management platform built with a Java/Spring Boot backend and an Angular frontend. It features secure JWT authentication, multi-tenancy for companies, and comprehensive transaction management. The entire application is containerized with Docker and deployed on Azure.
 
 - 🤖 [AI News Portal (React, Tailwind and Firebase)](https://github.com/s4mp41xao/ai-news-portal)  
   Modern and responsive news platform that uses artificial intelligence to curate and display the latest news from various categories.
 
-- 🍔 [WeFood - Burger Restaurant (React)](https://wefood.vercel.app/)  
-  A modern landing page for a fictional burger place, focused on UI and user experience.
+---
 
-- 🍽️ [Foodie - Restaurant Landing Page (React)](https://restaurant-landing-page-mocha.vercel.app/)  
-  A stylish, responsive landing page for restaurants.
+#### 📈 My Goals
+To deepen my knowledge of microservices architecture and cloud-native patterns.
 
-- 🏨 [Hotel Booking UI (React + Tailwind)](https://experience-react-tailwind.vercel.app/)  
-  Interface for a hotel reservation system with a modern layout built using Tailwind CSS.
+To contribute to high-impact, open-source projects in the Java and Angular ecosystems.
 
-- 🛍️ [Clothing E-commerce (JavaScript/jQuery)](https://e-commerce-j-query-bootstrap.vercel.app/)  
-  Online clothing store with product catalog and shopping cart using jQuery and Bootstrap.
+To build solutions that solve real-world business challenges.
 
-- ✅ [Todo List (JavaScript)](https://todo-list-one-blush.vercel.app/)  
-  A simple and functional app to manage daily tasks.
-
-- ⏰ [Digital Clock (JavaScript)](https://relogio-digital-psi-rust.vercel.app/)  
-  Real-time digital clock with a clean, minimal design. Great for DOM manipulation practice.
-
-- 🧮 [Calculator (JavaScript)](https://calculator-project-three-theta.vercel.app/)  
-  A classic calculator app with basic operations, ideal for practicing logic and interactivity.
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s4mp41xao&show_icons=true&locale=en&layout=compact" alt="s4mp41xao" /></p>
+Feel free to explore my repositories and connect with me!
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s4mp41xao&show_icons=true&locale=en" alt="s4mp41xao" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=s4mp41xao&show_icons=true&locale=en&theme=dracula" alt="s4mp41xao's GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=s4mp41xao&theme=dracula" alt="s4mp41xao's GitHub Streak" />
+</p>
 
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s4mp41xao&" alt="s4mp41xao" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=s4mp41xao&show_icons=true&locale=en&layout=compact&theme=dracula" alt="s4mp41xao's Top Languages" />
+</p>
