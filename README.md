@@ -35,9 +35,8 @@ Feel free to explore my repositories and connect with me!
 
 <br>
 
-
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s4mp41xao&show_icons=true&locale=en&layout=compact&theme=dracula" alt="s4mp41xao's Top Languages" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=s4mp41xao&show_icons=true&locale=en&layout=compact&theme=dracula" alt="s4mp41xao's Top Languages" />
 </p>
 
 <p align="center">
@@ -45,5 +44,4 @@ Feel free to explore my repositories and connect with me!
 &nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=s4mp41xao&theme=dracula" alt="s4mp41xao's GitHub Streak" />
 </p>
-
 
