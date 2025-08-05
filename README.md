@@ -1,5 +1,5 @@
 ## 👨‍💻 About Me
-I am a Full-Stack Develo per specializing in building robust and scalable applications with Java/Spring Boot on the backend and modern, reactive interfaces with Angular on the frontend. My focus is on writing clean, maintainable code and leveraging tools like Docker and Azure to ensure efficient and reliable deployments.
+I am a Full-Stack Developer specializing in building robust and scalable applications with Java/Spring Boot on the backend and modern, reactive interfaces with Angular on the frontend. My focus is on writing clean, maintainable code and leveraging tools like Docker and Azure to ensure efficient and reliable deployments.
 
 I am passionate about solving complex challenges and am currently focused on deepening my knowledge of enterprise-level solutions and cloud-native architectures.
 
@@ -39,9 +39,10 @@ Feel free to explore my repositories and connect with me!
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s4mp41xao&show_icons=true&locale=en&layout=compact&theme=dracula" alt="s4mp41xao's Top Languages" />
 </p>
 
-<p align="center">
+<p align="right">
 <img src="https://github-readme-stats.vercel.app/api?username=s4mp41xao&show_icons=true&locale=en&theme=dracula" alt="s4mp41xao's GitHub Stats" />
-&nbsp;&nbsp;
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=s4mp41xao&theme=dracula" alt="s4mp41xao's GitHub Streak" />
 </p>
+
 
