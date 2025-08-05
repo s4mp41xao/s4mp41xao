@@ -12,8 +12,6 @@ I am passionate about solving complex challenges and am currently focused on dee
 | Spring Security | RxJS | | Git & GitHub |
 | JPA / Hibernate | | | |
 
----
-
 ### 🚀 Featured Project's
 
 - 🏦 [Finance Management System (SaaS) | Full-Stack Monorepo](https://github.com/s4mp41xao/finance-system-monorepo)  
@@ -25,11 +23,11 @@ I am passionate about solving complex challenges and am currently focused on dee
 ---
 
 #### 📈 My Goals
-To deepen my knowledge of microservices architecture and cloud-native patterns.
+- To deepen my knowledge of microservices architecture and cloud-native patterns.
 
-To contribute to high-impact, open-source projects in the Java and Angular ecosystems.
+- To contribute to high-impact, open-source projects in the Java and Angular ecosystems.
 
-To build solutions that solve real-world business challenges.
+- To build solutions that solve real-world business challenges.
 
 Feel free to explore my repositories and connect with me!
 
