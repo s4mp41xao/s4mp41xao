@@ -39,10 +39,9 @@ Feel free to explore my repositories and connect with me!
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s4mp41xao&show_icons=true&locale=en&layout=compact&theme=dracula" alt="s4mp41xao's Top Languages" />
 </p>
 
-<p align="right">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=s4mp41xao&show_icons=true&locale=en&theme=dracula" alt="s4mp41xao's GitHub Stats" />
-
+&nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=s4mp41xao&theme=dracula" alt="s4mp41xao's GitHub Streak" />
 </p>
-
 
