@@ -5,12 +5,10 @@ I am passionate about solving complex challenges and am currently focused on dee
 
 ### 💻 My Core Tech Stack
 
-| Backend | Frontend | Databases | DevOps & Cloud |
-| :--- | :--- | :--- | :--- |
-| Java | TypeScript | MySQL | Docker |
-| Spring Boot | Angular | H2 Database | Azure |
-| Spring Security | RxJS | | Git & GitHub |
-| JPA / Hibernate | | | |
+| Front-end | Back-end | Frameworks & Libs | Databases | Cloud |
+| :--- | :--- | :--- | :--- |:--- |
+| JavaScript, TypeScript  | Node, Java | React, Angular, NestJS, Spring-Boot, Mongoose, BetterAuth, Tailwind, Vite,  | MongoDB, MySQl, H2 | AWS, Azure,|
+
 
 ### 🚀 Featured Project's
 
