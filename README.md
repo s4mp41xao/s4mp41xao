@@ -18,6 +18,10 @@ I am passionate about solving complex challenges and am currently focused on dee
 - 🤖 [AI News Portal (React, Tailwind and Firebase)](https://github.com/s4mp41xao/ai-news-portal)  
   Modern and responsive news platform that uses artificial intelligence to curate and display the latest news from various categories.
 
+
+- 📦 [NestJS + Better Auth + MongoDB - Starter Kit)](https://github.com/s4mp41xao/ai-news-portal)  
+  A complete starter kit for authentication in NestJS applications using Better Auth and MongoDB Atlas.
+
 ---
 
 #### 📈 My Goals
