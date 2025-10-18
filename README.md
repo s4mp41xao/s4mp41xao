@@ -19,7 +19,7 @@ I am passionate about solving complex challenges and am currently focused on dee
   Modern and responsive news platform that uses artificial intelligence to curate and display the latest news from various categories.
 
 
-- 📦 [NestJS + Better Auth + MongoDB - Starter Kit)](https://github.com/s4mp41xao/ai-news-portal)  
+- 📦 [NestJS + Better Auth + MongoDB - Starter Kit)](https://github.com/s4mp41xao/nestjs-betterauth-mongodb-starter)  
   A complete starter kit for authentication in NestJS applications using Better Auth and MongoDB Atlas.
 
 ---
